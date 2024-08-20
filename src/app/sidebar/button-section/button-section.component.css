@@ -1,0 +1,8 @@
+.wrapper{
+  flex-direction: column;
+  margin: 40px 0;
+}
+
+app-gray-button, app-two-button-row, app-black-button, app-transparent-button{
+  width: 100%;
+}

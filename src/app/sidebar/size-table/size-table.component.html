@@ -1,0 +1,12 @@
+<table>
+  <tr>
+    <th>
+      {{imageName | uppercase}}
+    </th>
+  </tr>
+  <tr *ngFor="let size of sizes">
+    <td>
+      <app-table-size-entry [size]="size"></app-table-size-entry>
+    </td>
+  </tr>
+</table>

@@ -1,0 +1,9 @@
+.wrapper{
+  gap: 10px;
+  margin-top: 15px;
+  margin-bottom: 30px;
+}
+
+app-gray-button {
+  width: 49%;
+}

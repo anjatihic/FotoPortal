@@ -1,3 +1,7 @@
 main{
   width: 70%;
 }
+
+app-sidebar{
+  width: 30%;
+}

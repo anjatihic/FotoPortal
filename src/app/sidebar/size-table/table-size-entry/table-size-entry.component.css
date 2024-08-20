@@ -1,0 +1,26 @@
+.wrapper{
+  justify-content: space-between;
+  padding: 15px 20px;
+}
+
+.radio-bundle{
+  display: flex;
+  gap: 9px;
+}
+
+label{
+  text-transform: uppercase;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 19.07px;
+}
+
+.description{
+  font-size: 12px;
+  line-height: 14.06px;
+  color: #7C7C7C;
+}
+
+#radio{
+  accent-color: #F68B1E;
+}

@@ -8,3 +8,18 @@ p{
   font-size: 13px;
   letter-spacing: -0.2px;
 }
+
+.bi-info-circle {
+  margin: 5px;
+}
+
+hr{
+  color: #E8E8E8;
+  border: none;
+  height: 1px;
+  background-color: #E8E8E8;
+}
+
+app-special-notes{
+  margin-top: 30px;
+}

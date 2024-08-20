@@ -19,7 +19,7 @@ h2{
   text-transform: uppercase;
 }
 
-p {
+p, label {
   font-weight: 400;
   font-size: 14px;
   letter-spacing: -0.4px;
@@ -34,3 +34,19 @@ button{
   letter-spacing: -0.4px;
   cursor: pointer;
 }
+
+label{
+  line-height: 19.07px;
+}
+
+.big-button{
+  line-height: 16.41px;
+  text-align: center;
+  width: 100%;
+}
+
+button i {
+  margin-right: 10px;
+}
+
+
