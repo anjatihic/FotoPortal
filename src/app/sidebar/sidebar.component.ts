@@ -8,5 +8,6 @@ import { Component } from '@angular/core';
   styleUrl: './sidebar.component.css'
 })
 export class SidebarComponent {
+  infoText = 'Kako mogu koristiti ovaj sadržaj?'
 
 }

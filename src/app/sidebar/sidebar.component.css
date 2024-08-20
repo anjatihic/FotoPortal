@@ -1,0 +1,10 @@
+.wrapper{
+  flex-direction: column;
+  padding: 40px;
+}
+
+p{
+  line-height: 17.7px;
+  font-size: 13px;
+  letter-spacing: -0.2px;
+}
