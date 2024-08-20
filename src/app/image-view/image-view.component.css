@@ -1,7 +1,5 @@
 .wrapper{
   background-color: #F4F5F7;
-  width: 100%;
-  display: flex;
   justify-content: center;
-  padding: 50px 0;
+  padding: 42px 0;
 }

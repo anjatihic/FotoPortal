@@ -1,0 +1,12 @@
+.wrapper{
+  padding: 65px;
+  flex-direction: column;
+}
+
+app-three-part-section {
+  width: 80%;
+}
+
+app-key-word-section{
+  margin-top: 23px;
+}
