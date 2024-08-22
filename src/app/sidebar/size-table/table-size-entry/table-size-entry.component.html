@@ -1,9 +1,9 @@
-<div class="wrapper">
-  <div class="radio-bundle">
-    <input type="radio" [name]="size.name" id="radio">
-    <div>
-      <label [for]="size.name">{{size.name}}</label>
-      <p class="description">{{size.resolution}}</p>
+<div class="d-flex justify-content-between spacing">
+  <div class="d-flex align-items-baseline">
+    <input type="radio" [name]="size.name" class="radio-spacing">
+    <div class="d-flex flex-column">
+      <label [for]="size.name">{{size.name | uppercase}}</label>
+      <span class="description">{{size.resolution}}</span>
     </div>
   </div>
 

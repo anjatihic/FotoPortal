@@ -1,18 +1,9 @@
-.wrapper{
-  justify-content: space-between;
-  padding: 15px 20px;
+.spacing{
+  margin: 15px 20px;
 }
 
-.radio-bundle{
-  display: flex;
-  gap: 9px;
-}
-
-label{
-  text-transform: uppercase;
-  font-weight: 400;
-  font-size: 14px;
-  line-height: 19.07px;
+.radio-spacing{
+  margin-right: 9px;
 }
 
 .description{
@@ -21,6 +12,11 @@ label{
   color: #7C7C7C;
 }
 
-#radio{
-  accent-color: #F68B1E;
+label{
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.price{
+  line-height: 19.07px;
 }
