@@ -1,16 +1,7 @@
 /* You can add global styles to this file, and also import other style files */
 *{
   font-family: 'Open Sans', sans-serif;
-  margin: 0;
-  padding: 0;
 }
-
-.wrapper{
-  width: 100%;
-  display: flex;
-  box-sizing: border-box;
-}
-
 h2{
   font-weight: 700 !important;
   font-size: 12px !important;
@@ -18,7 +9,6 @@ h2{
   letter-spacing: -0.4px !important;
   text-transform: uppercase;
 }
-
 p, label {
   font-weight: 400;
   font-size: 14px;
