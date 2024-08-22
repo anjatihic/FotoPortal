@@ -1,3 +1,5 @@
-.margins{
-  padding: 3px 35px;
+@media (min-width: 992px) { /* lg breakpoint */
+  .custom-padding-lg {
+    padding: 3px 35px;
+  }
 }

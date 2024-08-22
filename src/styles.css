@@ -17,6 +17,8 @@ p, button {
 
 label{
   line-height: 19.07px;
+  font-size: 14px;
+  font-weight: 400;
 }
 
 .big-button{
