@@ -12,10 +12,10 @@
 }
 
 h2{
-  font-weight: 700;
-  font-size: 12px;
-  line-height: 16.34px;
-  letter-spacing: -0.4px;
+  font-weight: 700 !important;
+  font-size: 12px !important;
+  line-height: 16.34px !important;
+  letter-spacing: -0.4px !important;
   text-transform: uppercase;
 }
 

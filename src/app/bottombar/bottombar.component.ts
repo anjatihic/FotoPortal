@@ -3,6 +3,7 @@ import {TitleWithParagraphComponent} from "../shared/title-with-paragraph/title-
 import {TitleWithText} from "../model/titleWithText";
 import {ThreePartSectionComponent} from "./three-part-section/three-part-section.component";
 import {KeyWordSectionComponent} from "./key-word-section/key-word-section.component";
+import {SpecialNotesComponent} from "./special-notes/special-notes.component";
 
 @Component({
   selector: 'app-bottombar',
@@ -11,7 +12,8 @@ import {KeyWordSectionComponent} from "./key-word-section/key-word-section.compo
   imports: [
     TitleWithParagraphComponent,
     ThreePartSectionComponent,
-    KeyWordSectionComponent
+    KeyWordSectionComponent,
+    SpecialNotesComponent
   ],
   styleUrl: './bottombar.component.css'
 })

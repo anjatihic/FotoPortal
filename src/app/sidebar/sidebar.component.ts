@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 import {SizeTableComponent} from "./size-table/size-table.component";
 import {CheckboxComponent} from "./checkbox/checkbox.component";
 import {ButtonSectionComponent} from "./button-section/button-section.component";
-import {SpecialNotesComponent} from "./special-notes/special-notes.component";
+import {SpecialNotesComponent} from "../bottombar/special-notes/special-notes.component";
 
 @Component({
   selector: 'app-sidebar',
