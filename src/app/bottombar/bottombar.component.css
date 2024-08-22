@@ -1,12 +1,5 @@
-.wrapper{
-  padding: 65px;
-  flex-direction: column;
-}
-
-app-three-part-section {
-  width: 80%;
-}
-
-app-key-word-section{
-  margin-top: 23px;
+@media (min-width: 992px) { /* lg breakpoint */
+  .custom-padding-lg {
+    padding-left: 65px;
+  }
 }
