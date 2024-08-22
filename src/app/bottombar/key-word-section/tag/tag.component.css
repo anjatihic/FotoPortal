@@ -1,4 +1,8 @@
 button{
   border: 1px solid #B6B6B6;
   background-color: inherit;
+  border-radius: 50px;
+  line-height: 19.07px;
+  padding: 5px 10px;
+  cursor: pointer;
 }

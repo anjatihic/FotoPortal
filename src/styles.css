@@ -9,20 +9,10 @@ h2{
   letter-spacing: -0.4px !important;
   text-transform: uppercase;
 }
-p, label {
-  font-weight: 400;
-  font-size: 14px;
-  letter-spacing: -0.4px;
-}
-
-button{
-  border-radius: 50px;
-  font-weight: 400;
-  font-size: 14px;
-  line-height: 19.07px;
-  padding: 5px 10px;
-  letter-spacing: -0.4px;
-  cursor: pointer;
+p, label, button {
+  font-weight: 400 !important;
+  font-size: 14px !important;
+  letter-spacing: -0.4px !important;
 }
 
 label{
