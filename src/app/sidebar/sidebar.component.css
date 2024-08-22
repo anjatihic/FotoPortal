@@ -1,21 +1,11 @@
 .wrapper{
-  flex-direction: column;
-  padding: 40px;
+  padding: 35px;
 }
 
-p{
-  line-height: 17.7px;
-  font-size: 13px;
-  letter-spacing: -0.2px;
+.indent{
+  margin-left: 5px;
 }
 
-.bi-info-circle {
-  margin: 5px;
-}
-
-hr{
-  color: #E8E8E8;
-  border: none;
-  height: 1px;
-  background-color: #E8E8E8;
+.bi-info-circle{
+  margin-left: 5px;
 }

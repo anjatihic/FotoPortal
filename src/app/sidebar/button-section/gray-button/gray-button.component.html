@@ -1,5 +1,5 @@
 <button type="button"
         [ngClass]="{'big-button': iconName !== ''}">
-  <i class="{{iconName}}"></i>
+  <i *ngIf="iconName !== ''" class="{{iconName}}"></i>
   {{name}}
 </button>

@@ -1,8 +1,4 @@
-.wrapper{
-  flex-direction: column;
-  margin: 40px 0;
-}
-
-app-gray-button, app-two-button-row, app-black-button, app-transparent-button{
-  width: 100%;
+.section-spacing{
+  margin-top: 39.09px;
+  margin-bottom: 39.35px;
 }
