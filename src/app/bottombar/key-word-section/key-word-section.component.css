@@ -1,8 +1,12 @@
-.row {
-  display: flex;
-  gap: 10px;
-}
-
 h2{
   margin-bottom: 15px;
+}
+
+.spacing{
+  margin-top: 23px;
+  margin-bottom: 50px;
+}
+
+.tags-gap{
+  gap: 10px;
 }
